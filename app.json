@@ -1,0 +1,6 @@
+{
+  "name": "syncm",
+  "description": "🤖 Discord Music Bot built with discord.js",
+  "repository": "https://github.com/rycerzes/syncm",
+  "keywords": ["discord", "discordjs", "music", "bot"]
+}
